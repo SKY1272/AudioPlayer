@@ -1,7 +1,7 @@
-React Audio Player
+## React Audio Player
 This is a React web application where users can upload audio files (e.g., mp3) and create playlists. The application utilizes built-in Browser APIs to store the audio files locally. Users can view and interact with a playlist, including a "now playing" view that displays the currently playing audio file. Playback seamlessly transitions to the next file in the playlist upon completion. Additionally, the application provides a persistent user experience by saving the last playing audio file and its playback position. This ensures that when the page is reloaded, the user can resume playback from the last position.
 
-Features
+## Features
 Upload audio files (mp3) using the file input.
 Display a playlist of uploaded audio files.
 Play any file from the playlist.
@@ -11,7 +11,7 @@ Technologies Used
 React.js
 HTML
 CSS
-Getting Started
+### Getting Started
 Clone the repository to your local machine.
 Navigate to the project directory.
 Run npm install to install dependencies.
